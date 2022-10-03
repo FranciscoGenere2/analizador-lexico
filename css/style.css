@@ -1,0 +1,43 @@
+.borde{
+    border: 3 solid rgb(237, 100, 100);
+}
+body{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.textarea1{
+    background-color: rgb(255, 255, 255);
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+.textarea2{
+    background-color: rgb(255, 255, 255);
+    border-color: #719ECE;
+    box-shadow: 0 0 15px #ffffff;
+}
+
+.tarjeta{
+    margin: auto;
+    border-color: #d9ff00;
+    box-shadow: 0 0 10px #ffffff;
+    width: 20%;
+    border-radius: 30px;
+}
+
+.logo{
+    margin-top: -60px;
+    margin-bottom: -60px;
+}
+
+h2{
+    font-family: "a r i a l", serif;
+    text-shadow: 0px 0px 10px rgb(41, 145, 0);
+    
+}
+
+.cts{
+    position: fixed;
+}
